@@ -12,6 +12,7 @@
 | [0169-majority-element](https://github.com/OMDHAMALE/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
