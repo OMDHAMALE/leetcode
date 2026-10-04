@@ -15,6 +15,7 @@
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/OMDHAMALE/leetcode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/OMDHAMALE/leetcode/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -75,4 +76,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/OMDHAMALE/leetcode/tree/master/0242-valid-anagram) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/OMDHAMALE/leetcode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
