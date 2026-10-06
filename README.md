@@ -10,6 +10,7 @@
 | [0053-maximum-subarray](https://github.com/OMDHAMALE/leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/OMDHAMALE/leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OMDHAMALE/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/OMDHAMALE/leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
@@ -40,6 +41,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OMDHAMALE/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/OMDHAMALE/leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/OMDHAMALE/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
