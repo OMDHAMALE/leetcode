@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/OMDHAMALE/leetcode/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/OMDHAMALE/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -90,4 +91,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/OMDHAMALE/leetcode/tree/master/1672-richest-customer-wealth) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/OMDHAMALE/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/OMDHAMALE/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
