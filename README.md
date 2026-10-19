@@ -77,6 +77,7 @@
 | [0066-plus-one](https://github.com/OMDHAMALE/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/OMDHAMALE/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
+| [2235-add-two-integers](https://github.com/OMDHAMALE/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
