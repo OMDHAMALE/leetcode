@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/OMDHAMALE/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/OMDHAMALE/leetcode/tree/master/0724-find-pivot-index) |
+| [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OMDHAMALE/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/OMDHAMALE/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -53,6 +54,7 @@
 | [0141-linked-list-cycle](https://github.com/OMDHAMALE/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OMDHAMALE/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
+| [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -62,6 +64,7 @@
 | [0242-valid-anagram](https://github.com/OMDHAMALE/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/OMDHAMALE/leetcode/tree/master/0414-third-maximum-number) |
+| [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
