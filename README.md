@@ -22,6 +22,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/OMDHAMALE/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/OMDHAMALE/leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/OMDHAMALE/leetcode/tree/master/0724-find-pivot-index) |
+| [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OMDHAMALE/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -54,6 +55,7 @@
 | [0141-linked-list-cycle](https://github.com/OMDHAMALE/leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/OMDHAMALE/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/OMDHAMALE/leetcode/tree/master/0283-move-zeroes) |
+| [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -94,6 +96,7 @@
 | ------- |
 | [0136-single-number](https://github.com/OMDHAMALE/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 ## String
 |  |
 | ------- |
@@ -107,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/OMDHAMALE/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Stack
 |  |
@@ -144,4 +148,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/OMDHAMALE/leetcode/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
