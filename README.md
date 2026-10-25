@@ -104,6 +104,7 @@
 | ------- |
 | [0242-valid-anagram](https://github.com/OMDHAMALE/leetcode/tree/master/0242-valid-anagram) |
 | [1021-remove-outermost-parentheses](https://github.com/OMDHAMALE/leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1694-reformat-phone-number](https://github.com/OMDHAMALE/leetcode/tree/master/1694-reformat-phone-number) |
 ## Prefix Sum
 |  |
 | ------- |
