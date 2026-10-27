@@ -26,6 +26,7 @@
 | [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OMDHAMALE/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/OMDHAMALE/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/OMDHAMALE/leetcode/tree/master/1672-richest-customer-wealth) |
@@ -70,6 +71,7 @@
 | [0561-array-partition](https://github.com/OMDHAMALE/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
 ## Counting
 |  |
 | ------- |
@@ -163,4 +165,9 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/OMDHAMALE/leetcode/tree/master/0561-array-partition) |
+| [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
