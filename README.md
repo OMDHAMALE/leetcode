@@ -25,6 +25,7 @@
 | [0724-find-pivot-index](https://github.com/OMDHAMALE/leetcode/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/OMDHAMALE/leetcode/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/OMDHAMALE/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@
 | [0414-third-maximum-number](https://github.com/OMDHAMALE/leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/OMDHAMALE/leetcode/tree/master/0561-array-partition) |
 | [0905-sort-array-by-parity](https://github.com/OMDHAMALE/leetcode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/OMDHAMALE/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
 ## Counting
@@ -86,6 +88,7 @@
 | [0066-plus-one](https://github.com/OMDHAMALE/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/OMDHAMALE/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/OMDHAMALE/leetcode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [2235-add-two-integers](https://github.com/OMDHAMALE/leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
@@ -161,6 +164,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/OMDHAMALE/leetcode/tree/master/0561-array-partition) |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
 ## Counting Sort
 |  |
 | ------- |
@@ -170,4 +174,12 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/OMDHAMALE/leetcode/tree/master/1051-height-checker) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/OMDHAMALE/leetcode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
